@@ -6,14 +6,14 @@
     <title>David Sawma Deployment Page</title>
 </head>
 <body>
-    <h>Sample Page for Deployment on Render</h>
+    <h1>Sample Page for Deployment on Render</h1>
     <ul>
-        <li><strong>Name:</strong> David Sawma</li>
-        <li><strong>GitHub Location:</strong> <a href="https://github.com/dsawma/dsawmapTERP"></a></li>
-        <li><strong>Render Location:</strong> <a href="https://dsawmapterp.onrender.com/"></a></li>
-        <li><strong>Clearing DataBase Movies:</strong> <a href="https://dsawmapterp.onrender.com/clearCollection"></a></li>
-        <li><strong>Inserting Movies:</strong> <a href="https://dsawmapterp.onrender.com/insertMovies"></li>
-        <li><strong>List Movies:</strong> <a href="https://dsawmapterp.onrender.com/listMovies"></a></li>
+        <li><strong>Name: </strong> David Sawma</li>
+        <li><strong>GitHub Location: </strong> <a href="https://github.com/dsawma/dsawmapTERP"></a></li>
+        <li><strong>Render Location: </strong> <a href="https://dsawmapterp.onrender.com/"></a></li>
+        <li><strong>Clearing DataBase Movies: </strong> <a href="https://dsawmapterp.onrender.com/clearCollection"></a></li>
+        <li><strong>Inserting Movies: </strong> <a href="https://dsawmapterp.onrender.com/insertMovies"></a></li>
+        <li><strong>List Movies: </strong> <a href="https://dsawmapterp.onrender.com/listMovies"></a></li>
     </ul>
 </body>
 </html>
